@@ -1,0 +1,4 @@
+#Virtualenv
+venv
+#Project's folder
+.idea
